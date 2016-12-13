@@ -40,7 +40,7 @@
     echo "<tr>";
     while ($b <= 8)
     {
-        echo "<td>" . $arr3[$b] . "</td>";
+        echo "<td>% " . $arr3[$b] . "</td>";
         $b++;
     }
     echo "</tr>";
@@ -50,7 +50,7 @@
     echo "<tr>";
     while ($c <= 17)
     {
-        echo "<td>" . $arr3[$c] . "</td>";
+        echo "<td>% " . $arr3[$c] . "</td>";
         $c++;
     }
     echo "</tr>";
